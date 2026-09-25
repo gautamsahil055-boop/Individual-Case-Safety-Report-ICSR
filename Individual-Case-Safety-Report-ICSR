@@ -1,0 +1,88 @@
+# Individual Case Safety Report (ICSR)
+
+## Introduction
+An Individual Case Safety Report (ICSR) is a structured report containing information about one or more suspected adverse reactions experienced by an individual patient following exposure to a medicinal product. ICSRs are an essential component of pharmacovigilance and drug safety monitoring.
+
+## Objective
+To understand the structure, essential elements, documentation, and importance of an ICSR in pharmacovigilance.
+
+## Key Components of an ICSR
+
+### 1. Patient Information
+- Patient initials or identification code
+- Age or date of birth
+- Sex
+- Relevant medical history
+
+### 2. Suspected Medicinal Product
+- Name of the suspected medicine
+- Dose and frequency
+- Route of administration
+- Indication for use
+- Therapy start and stop dates
+
+### 3. Adverse Reaction Information
+- Description of the adverse reaction
+- Date of onset
+- Seriousness and severity
+- Outcome of the reaction
+- Relevant laboratory findings
+- Action taken with the suspected medicine
+
+### 4. Reporter Information
+- Name or identification
+- Professional designation
+- Organization
+- Contact details, where appropriate
+
+### 5. Case Narrative
+A chronological summary describing the patient's exposure to the medicine, the development of the reaction, treatment or action taken, and the patient's outcome.
+
+## Minimum Criteria for a Valid ICSR
+A valid ICSR generally requires four minimum elements:
+1. An identifiable patient
+2. An identifiable reporter
+3. A suspected medicinal product
+4. A suspected adverse reaction
+
+Specific reporting requirements may vary by regulatory authority.
+
+## Sample ICSR Case (Fictional)
+
+### Patient Details
+- Patient ID: DEMO-ICSR-001
+- Age: 32 years
+- Sex: Not provided
+
+### Suspected Medicine
+- Medicine: Amoxicillin
+- Dose: Not provided
+- Route: Not provided
+- Indication: Presumed bacterial infection
+
+### Adverse Reaction
+- Reaction: Skin rash
+- Onset: Approximately two days after starting treatment
+- Seriousness: Cannot be determined from the available information
+- Outcome: Unknown
+- Action taken: Not provided
+
+### Case Narrative
+A fictional 32-year-old patient received amoxicillin for a presumed bacterial infection. A skin rash developed approximately two days after treatment began. The available information does not include the exact treatment dates, dose, route, clinical management, or final outcome. The event is documented as a suspected adverse reaction. The available information is insufficient to establish causality.
+
+## ICSR Processing Workflow
+1. Receive the adverse event report.
+2. Check the minimum criteria for a valid case.
+3. Enter patient, medicine, reaction, and reporter details.
+4. Assess seriousness and document the clinical information.
+5. Prepare the case narrative.
+6. Perform quality review and check for duplicate cases.
+7. Submit the report through the applicable reporting system within the required timeline.
+8. Maintain case records and process follow-up information.
+
+## Importance of ICSR in Pharmacovigilance
+- Supports the detection of potential safety signals.
+- Helps monitor the safety of medicines after marketing.
+- Provides structured information for regulatory assessment.
+- Supports risk management and patient safety.
+- Enables the collection and analysis of adverse reaction data.
